@@ -1,3 +1,4 @@
+[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-f4981d0f882b2a3f0472912d15f9806d57e124e0fc890972558857b51b24a6f9.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=10592961)
 # Project Description
 
 In your project, you will develop a forecast or pattern recognition based on machine learning technologies, which we also cover in our lecture. Your first task is defining a research question, which then determines your project work. To do this, proceed as follows:
