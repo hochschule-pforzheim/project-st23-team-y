@@ -1,0 +1,7 @@
+Contrary to our proposal, we decided not to predict the valence (positivity) of the songs in the Spotify dataset. (as discussed with Marian)
+This was due to the fact that upon further deliberation, we came to the conclusion that the sentiment analyses that we wanted to conduct would have no influence on the valence of the songs, 
+as this was only determined by certain song characteristics.
+However, as an alternative, we decided to predict the popularity of the songs, where the sentiments could potentially have an impact.
+
+Annotation to Notebook #1:
+Our first notebook, which contains the merging of the lyrics to the respective songs, can only be run locally. (further explanation can be found in the notebook itself)
